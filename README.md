@@ -32,7 +32,7 @@ $ make
 $ ./main <graph vertex file with .dre extension (*)>  
 
 The program uses libraries:  
-Nauty ():  
+Nauty (https://pallini.di.uniroma1.it/):  
  - nauty.h  
  - naututil.h  
  - gutils.h  
